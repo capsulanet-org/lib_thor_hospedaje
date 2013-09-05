@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="library" version="3.0" method="upgrade">
+	<name>lib_thorhospedaje</name>
+	<libraryname>thorhospedaje</libraryname>
+	<author>Leonardo Alviarez, Edén Arreaza</author>
+	<creationDate>September 2013</creationDate>
+	<copyright>Copyright (C) 2013. All rights reserved.</copyright>
+	<license>GNU General Public License version 3, or later</license>
+	<authorEmail>alviarez.leonardo@gmail.com</authorEmail>
+	<authorUrl></authorUrl>
+	<version>0.0.1</version>
+	<description>Thorhospedaje library</description>
+	<files folder="thorhospedaje">
+		<folder>currency_converter</folder>
+    	</files>
+</extension>
